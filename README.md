@@ -1,6 +1,6 @@
 # Sweetviz
 
-![Sweetviz Logo](https://github.com/fbdesignpro/sweetviz/raw/master/logo.png)
+![Sweetviz Logo](logo/logo.png)
 
 Sweetviz is an open-source Python library that provides high-density visualizations of data, making it easy to analyze datasets with just a few lines of code. It creates beautiful, detailed reports in HTML format that help with understanding data distributions, detecting correlations, and identifying potential issues with datasets.
 
